@@ -11,7 +11,7 @@
 //string caminhoCompletoDestino = Path.Combine(pastaUsuario, "Curso C#", "TrabalhandoComArquivos", "testeDestino.txt");
 
 string _caminhoCompletoOrigem = "/Users/Matheus/Curso C#/TrabalhandoComArquivos/teste.txt";
-string _caminhoCompletoDestino = "/Users/Matheus/Curso C#/TrabalhandoComArquivos/temp/marcelo.txt";
+string _caminhoCompletoDestino = "/Users/Matheus/Curso C#/TrabalhandoComArquivos/temp/matheus.txt";
 
 // string _caminhoCompletoOrigem = @"teste.txt";
 // string _caminhoCompletoDestino = @"temp/testeDestino.txt";
