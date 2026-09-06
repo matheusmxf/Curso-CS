@@ -1,0 +1,14 @@
+/Users/Matheus/Curso C#/ProjetoPost/bin/Debug/net10.0/ProjetoPost
+/Users/Matheus/Curso C#/ProjetoPost/bin/Debug/net10.0/ProjetoPost.deps.json
+/Users/Matheus/Curso C#/ProjetoPost/bin/Debug/net10.0/ProjetoPost.runtimeconfig.json
+/Users/Matheus/Curso C#/ProjetoPost/bin/Debug/net10.0/ProjetoPost.dll
+/Users/Matheus/Curso C#/ProjetoPost/bin/Debug/net10.0/ProjetoPost.pdb
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.AssemblyInfo.cs
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.csproj.CoreCompileInputs.cache
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.dll
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/refint/ProjetoPost.dll
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.pdb
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ProjetoPost.genruntimeconfig.cache
+/Users/Matheus/Curso C#/ProjetoPost/obj/Debug/net10.0/ref/ProjetoPost.dll

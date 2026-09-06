@@ -1,0 +1,14 @@
+/Users/Matheus/Curso C#/HerancaPolimorfismo/bin/Debug/net10.0/HerancaPolimorfismo
+/Users/Matheus/Curso C#/HerancaPolimorfismo/bin/Debug/net10.0/HerancaPolimorfismo.deps.json
+/Users/Matheus/Curso C#/HerancaPolimorfismo/bin/Debug/net10.0/HerancaPolimorfismo.runtimeconfig.json
+/Users/Matheus/Curso C#/HerancaPolimorfismo/bin/Debug/net10.0/HerancaPolimorfismo.dll
+/Users/Matheus/Curso C#/HerancaPolimorfismo/bin/Debug/net10.0/HerancaPolimorfismo.pdb
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.AssemblyInfo.cs
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.dll
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/refint/HerancaPolimorfismo.dll
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.pdb
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/HerancaPolimorfismo.genruntimeconfig.cache
+/Users/Matheus/Curso C#/HerancaPolimorfismo/obj/Debug/net10.0/ref/HerancaPolimorfismo.dll

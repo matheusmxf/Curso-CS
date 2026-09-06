@@ -1,0 +1,14 @@
+/Users/Matheus/Curso C#/TratamentoDeExcessões/bin/Debug/net10.0/TratamentoDeExcessões
+/Users/Matheus/Curso C#/TratamentoDeExcessões/bin/Debug/net10.0/TratamentoDeExcessões.dll
+/Users/Matheus/Curso C#/TratamentoDeExcessões/bin/Debug/net10.0/TratamentoDeExcessões.pdb
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.AssemblyInfo.cs
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.csproj.CoreCompileInputs.cache
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.dll
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/refint/TratamentoDeExcessões.dll
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.pdb
+/Users/Matheus/Curso C#/TratamentoDeExcessões/bin/Debug/net10.0/TratamentoDeExcessões.deps.json
+/Users/Matheus/Curso C#/TratamentoDeExcessões/bin/Debug/net10.0/TratamentoDeExcessões.runtimeconfig.json
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/TratamentoDeExcessões.genruntimeconfig.cache
+/Users/Matheus/Curso C#/TratamentoDeExcessões/obj/Debug/net10.0/ref/TratamentoDeExcessões.dll

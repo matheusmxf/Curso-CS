@@ -1,0 +1,14 @@
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/bin/Debug/net10.0/ClassesMetodosAbstratos
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/bin/Debug/net10.0/ClassesMetodosAbstratos.deps.json
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/bin/Debug/net10.0/ClassesMetodosAbstratos.runtimeconfig.json
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/bin/Debug/net10.0/ClassesMetodosAbstratos.dll
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/bin/Debug/net10.0/ClassesMetodosAbstratos.pdb
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.AssemblyInfo.cs
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.dll
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/refint/ClassesMetodosAbstratos.dll
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.pdb
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ClassesMetodosAbstratos.genruntimeconfig.cache
+/Users/Matheus/Curso C#/ClassesMetodosAbstratos/obj/Debug/net10.0/ref/ClassesMetodosAbstratos.dll

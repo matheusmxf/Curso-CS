@@ -1,0 +1,14 @@
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/bin/Debug/net10.0/TrabalhandoComArquivos
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/bin/Debug/net10.0/TrabalhandoComArquivos.deps.json
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/bin/Debug/net10.0/TrabalhandoComArquivos.runtimeconfig.json
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/bin/Debug/net10.0/TrabalhandoComArquivos.dll
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/bin/Debug/net10.0/TrabalhandoComArquivos.pdb
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.AssemblyInfo.cs
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.dll
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/refint/TrabalhandoComArquivos.dll
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.pdb
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/TrabalhandoComArquivos.genruntimeconfig.cache
+/Users/Matheus/Curso C#/TrabalhandoComArquivos/obj/Debug/net10.0/ref/TrabalhandoComArquivos.dll

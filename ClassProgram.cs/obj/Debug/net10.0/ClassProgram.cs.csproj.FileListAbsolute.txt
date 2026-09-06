@@ -1,0 +1,4 @@
+/Users/Matheus/Curso C#/ClassProgram.cs/obj/Debug/net10.0/ClassProgram.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/Curso C#/ClassProgram.cs/obj/Debug/net10.0/ClassProgram.cs.AssemblyInfoInputs.cache
+/Users/Matheus/Curso C#/ClassProgram.cs/obj/Debug/net10.0/ClassProgram.cs.AssemblyInfo.cs
+/Users/Matheus/Curso C#/ClassProgram.cs/obj/Debug/net10.0/ClassProgram.cs.csproj.CoreCompileInputs.cache
